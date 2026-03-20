@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Deepak Yadav! 👋
+**B.Tech CSE Student @ VIT Bhopal University**
 
-<!--
-**dyrpsf/dyrpsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- **Current Focus:** Pursuing B.Tech in Computer Science and Engineering.
+- **Location:** Bhopal, India.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills
+- **Languages:** Java (v24), Python, JavaScript (ES6+), SQL.
+- **Frameworks/Tools:** Flask, Docker, Neo4j, Git/GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Open Source & Contributions
+- **GSoC 2026 Applicant:** Currently working on a proposal for **gsoc-sysbio-llm-tools**.
+- **Contributor:** Actively contributing to **JSBML** and **SBSCL** open-source projects.
+
+### 🎨 Beyond Coding
+- **Art:** I enjoy drawing detailed portraits of friends and personal aspirations.
+- **Sports:** I am an active player of Basketball, Volleyball, and Cricket.
+- **Music:** Frequent listener of Arijit Singh.
+
+---
+📫 **Connect with me:** [dyrpsf@gmail.com](mailto:dyrpsf@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/dyrpsf/)
