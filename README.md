@@ -9,10 +9,6 @@
 - **Languages:** Java (v24), Python, JavaScript (ES6+), SQL.
 - **Frameworks/Tools:** Flask, Docker, Neo4j, Git/GitHub.
 
-### 🌐 Open Source & Contributions
-- **GSoC 2026 Applicant:** Currently working on a proposal for **gsoc-sysbio-llm-tools**.
-- **Contributor:** Actively contributing to **JSBML** and **SBSCL** open-source projects.
-
 ### 🎨 Beyond Coding
 - **Art:** I enjoy drawing detailed portraits of friends and personal aspirations.
 - **Sports:** I am an active player of Basketball, Volleyball, and Cricket.
